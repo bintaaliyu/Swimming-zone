@@ -1,0 +1,261 @@
+.container{
+    width: 100%;
+    box-sizing: border-box;
+    top: 0;
+    left: 0;
+    /* border: solid; */
+     background-color: #72ecff;
+      /* color: #232736;  */
+}
+
+.hero-section{
+    background-color: #72ecff;
+    /* margin: 0; */
+    /* border: solid; */
+}
+#mode-switch{
+     margin-left: 40%;
+    
+}
+
+nav{
+    display: flex;
+    /* text-decoration: none; */
+}
+
+nav li{
+list-style: none;
+/* justify-content: space-between; */
+padding: 55px;
+font-family: "Raleway", sans-serif;
+
+}
+
+.bracket-div{
+max-width: 30%;
+ /* border: solid;  */
+display: flex;
+height: 250px;
+}
+
+.bracket{
+    /* border: solid; */
+    max-width: 10%;
+    font-size: 50px;
+}
+
+#b2{
+    /* margin-left: 90%; */
+    align-self: end;
+}
+
+.main{
+    font-size: 13px;
+    /* padding-left: 30px; */
+    padding-left: 20px;
+    padding-right: 20px;
+    align-self:  center;
+    font-family: "Raleway", sans-serif;
+
+}
+
+#b1{
+    /* margin-top: 100px; */
+    align-self: start;
+}
+
+.img1{
+    display: flex;
+    width: 100%;
+    /* border: solid; */
+    justify-content: space-around;
+}
+
+.hero-text{
+    font-size: 3.3rem;
+    padding: 20px;
+    font-family: "Bruno Ace", sans-serif;
+}
+
+.about{
+    background-image: url("header.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+    /* display: flex; */
+    margin: 0;
+    /* border: solid; */
+}
+
+.abt{
+    font-family: "Bruno Ace", sans-serif;
+     font-size: 3.3rem; 
+    display: inline;
+    color:white;
+}
+
+.task{
+    max-width: 20%;
+    background-color:#72ecff ;
+    /* justify-content: ; */
+    height: 150px;
+    margin-left: 77%;
+}
+
+.big-t{
+    font-family: "Bruno Ace", sans-serif;
+}
+
+.solutions{
+    max-width: 20%;
+    background-color:#72ecff ;
+    height: 200px;
+    margin-top: 7%;
+    margin-left: 40px;
+}
+
+.big-s{
+    font-family: "Bruno Ace", sans-serif;}
+
+ .faq{ 
+    background-color: #72ecff;
+    margin: 0;
+    /* border: solid; */
+} 
+
+.faq-box{
+    background-color: #023e8a;
+    /* border: solid; */
+    max-width: 50%;
+    align-items: center;
+    color: white ;
+     margin: 10%;
+     padding: 5%;
+}
+
+.faq-box li{
+    text-decoration: underline;
+     padding: 20px; 
+    
+}
+
+.faq-box h1 {
+    font-family: "Bruno Ace", sans-serif;
+    font-size: 3rem;
+}
+
+.pf{
+    display: none;
+}
+
+p{
+    font-family: "Raleway", sans-serif;
+
+}
+
+h4{
+    font-family: "Raleway", sans-serif;
+
+}
+.aq img{
+    width: 300px;
+    height: 300px;
+    margin-top: 70px;
+}
+
+.aq{
+    display: flex;
+    /* margin-left: 20px; */
+    gap: 30px;
+}
+
+.underline{
+    /* width: 100px; */
+    border: 1px solid white;
+    margin: auto;
+}
+
+.any h2{
+    font-family: "Bruno Ace", sans-serif;
+    font-size: 2rem;
+}
+.ask{
+    
+    background-color:#023e8a ;
+    color: #ffffff;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #009fb7;
+    color: #ffffff;
+    border: none;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+}
+
+input[type="name"],
+input[type="contact"] {
+    background-color: white;
+    color: #000;
+    border: none;
+    padding: 12px;
+    /* border-radius: 5px; */
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+
+input[type="name"]:focus,
+input[type="contact"]:focus {
+    outline: none;
+    /* box-shadow: 0 0 5px #6200ea; */
+}
+
+.ending{
+    /* display: flex; */
+    background-color: #00537d;
+    color: white;
+    margin: 0;
+    /* border: solid; */
+}
+
+.tkt{
+    display: block;
+    font-size: 5rem;
+    /* background-color: #023047; */
+    font-family: "Bruno Ace", sans-serif;
+
+}
+
+.end{
+    display: flex;
+}
+
+.ending h1{
+    font-family: "Bruno Ace", sans-serif;
+}
+
+.li2{
+        margin-left: 60%;
+}
+
+li{
+    list-style: none;
+    font-family: "Raleway", sans-serif;
+}
+
+#mode-switch{
+    height: 24px;
+}
+
+.footer{
+    margin: 0;
+    /* border: solid; */
+}
